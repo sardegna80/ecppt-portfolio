@@ -13,7 +13,7 @@ Portfolio personale di penetration testing in preparazione all'esame **eCPPT** (
 ## Certificazioni in corso
 
 - **eCPPT** — eLearnSecurity Certified Professional Penetration Tester
-  - Target: Agosto 2026
+  - Target: Novembre 2026
   - Status: In preparazione
 
 ## Metodologia
